@@ -1,9 +1,0 @@
-De tai:    Xay dung he thong phat hien xam nhap IDS - SNORT tren LINUX
-
-Thong tin nhom 7
-
-Ho & ten			Ma SV
-Dao Minh Nghia		3112410079
-Lu Xan Luan		3112410067
-Tran Binh Quan		3112410106
-
