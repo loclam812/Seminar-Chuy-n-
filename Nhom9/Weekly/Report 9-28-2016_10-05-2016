@@ -1,0 +1,11 @@
+Report 28/9 - 5/10
+1.	Những việc đã làm:   
+-	Tìm hiểu hệ thống mạng doanh nghiệp
+-	Chuẩn bị - tải centos và windowns server 2015
+-	Cài centos
+2.	Những việc chưa làm được :
+-	Chưa cài được 2 dịch vụ dhcp và dns trên contos
+3.	Những việc sẽ làm :
+-	Cài dịch vụ DHCP trên server độc lập
+-	Cài dịch vụ DNS trên server độc  lập
+-	Cài DHCP và DNS trên cùng  server
